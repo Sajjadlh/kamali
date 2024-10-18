@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'IGgbt'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6C28D60124BB4970B2C02C999C089F09 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1ABE301F7F4F4B10ACDC51EA7053778E }}
